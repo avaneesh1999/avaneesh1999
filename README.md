@@ -2,7 +2,7 @@
 <img src="Live-Motion-Background.svg" alt="stacks" width = "100%"/>
 </h3>
 
-### Hi there, It's Avaneesh  👋
+### Hi there, It's Avaneesh 😎
 
 - 🔭 I’m currently working on my own web dev side projects. 🙂
 - 🌱 I’m currently learning about design patterns and architecture.
