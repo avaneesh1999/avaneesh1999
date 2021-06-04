@@ -1,5 +1,5 @@
 <h3 >
-<img src=".Live-Motion-Background.svg" alt="stacks" width = "100%"/>
+<img src="Live-Motion-Background.svg" alt="stacks" width = "100%"/>
 </h3>
 
 ### Hi there, It's Chayan 👋
