@@ -14,7 +14,7 @@
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-avaneesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avaneesh/)](https://www.linkedin.com/in/avaneesh-singh-117350166/)
-[![Instagram Badge](https://img.shields.io/badge/-chayanxn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/avaneesh)](https://www.instagram.com/avaneesh1999/)
+[![Instagram Badge](https://img.shields.io/badge/-avaneesh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/avaneesh)](https://www.instagram.com/avaneesh1999/)
 [![Gmail Badge](https://img.shields.io/badge/-avaneesh1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avaneesh1999@gmail.com)](mailto:avaneesh1999@gmail.com)
 <!-- [![Twitter Badge](https://img.shields.io/badge/pantchayan-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pantchayan) -->
 [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/8447159134)
