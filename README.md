@@ -19,12 +19,6 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/pantchayan-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pantchayan) -->
 [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/8447159134)
 
-<br />
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=pantchayan&margin-w=35&theme=nord&rank=S,AAA,AA,A)
- -->
-<br />
-
 ## 🔥 Technologies
 
 <br />
