@@ -21,8 +21,8 @@
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pantchayan&margin-w=35&theme=nord&rank=S,AAA,AA,A)
-
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=pantchayan&margin-w=35&theme=nord&rank=S,AAA,AA,A)
+ -->
 <br />
 
 ## 🔥 Technologies
