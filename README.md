@@ -4,7 +4,7 @@
 
 ### Hi there, It's Avaneesh 😎
 
-- 🔭 I’m currently working on my own web dev side projects. 🙂
+- 🔭 I’m currently working on my own web dev side projects🙂.
 - 🌱 I’m currently learning about design patterns and architecture.
 - 🤔 I’m always grateful for some help with growing as a programmer.
 - ⚡ fun fact: I love to listen to podcasts and play cricket.
