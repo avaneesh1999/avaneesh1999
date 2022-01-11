@@ -17,8 +17,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-avaneesh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/avaneesh)](https://www.instagram.com/avaneesh1999/)
 [![Gmail Badge](https://img.shields.io/badge/-avaneesh1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avaneesh1999@gmail.com)](mailto:avaneesh1999@gmail.com)
 <!-- [![Twitter Badge](https://img.shields.io/badge/pantchayan-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pantchayan) -->
-[![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/8447159134)
-
+<!-- [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/8447159134)
+ -->
 ## 🔥 Technologies
 
 <br />
@@ -32,8 +32,9 @@
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-### Next on stack! 😉
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+
+
 
 
