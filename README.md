@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Udai Gupta</h1>
-<h3 align="center">A passionate MERN Stack developer. I also like playing with data with some machine learning</h3>
+<h1 align="center">Hi 👋, I'm Avaneesh Singh</h1>
+<h3 align="center">A Tech-Enthusiast with good Problem-Solving ability and loves to build products.</h3>
 
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **React Js MongoDB ML**
+- 💬 Ask me about **React .Javascript & Cloud**
 
-- 📫 How to reach me **udaigupta19311@gmail.com**
+- 📫 How to reach me **avaneeshsingh1999@gmail.com**
 
-- ⚡ Fun fact **Marvel fan**
+- ⚡ Fun fact **Goku fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/udai-gupta-003072192" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/avaneesh-singh-117350166/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
