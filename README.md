@@ -1,40 +1,22 @@
-<h3 >
-<img src="Live-Motion-Background.svg" alt="stacks" width = "100%"/>
-</h3>
+<h1 align="center">Hi 👋, I'm Udai Gupta</h1>
+<h3 align="center">A passionate MERN Stack developer. I also like playing with data with some machine learning</h3>
 
-### Hi there, It's Avaneesh 😎
+- 🌱 I’m currently learning everything 🤣
 
-- 🔭 I’m currently working on my own web dev side projects🙂.
-- 🌱 I’m currently learning about design patterns and architecture.
-- 🤔 I’m always grateful for some help with growing as a programmer.
-- ⚡ fun fact: I love to listen to podcasts and play cricket.
-- 🎓 CSE from AKTU.
-- 💬 Ask me about anything! 
+- 💬 Ask me about **React Js MongoDB ML**
 
-<br />
+- 📫 How to reach me **udaigupta19311@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-avaneesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avaneesh/)](https://www.linkedin.com/in/avaneesh-singh-117350166/)
-[![Instagram Badge](https://img.shields.io/badge/-avaneesh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/avaneesh)](https://www.instagram.com/avaneesh1999/)
-[![Gmail Badge](https://img.shields.io/badge/-avaneesh1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avaneesh1999@gmail.com)](mailto:avaneesh1999@gmail.com)
-<!-- [![Twitter Badge](https://img.shields.io/badge/pantchayan-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pantchayan) -->
-<!-- [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/8447159134)
- -->
-## 🔥 Technologies
+- ⚡ Fun fact **Marvel fan**
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/udai-gupta-003072192" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
+<summary>:zap: GitHub Stats</summary>
 
-
-
-
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Udai1931&theme=react&show_icons=true&hide=stars,issues" />
