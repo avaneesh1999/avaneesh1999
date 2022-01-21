@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **React .Javascript & Cloud**
+- 💬 Ask me about **React,Javascript & Cloud**
 
 - 📫 How to reach me **avaneeshsingh1999@gmail.com**
 
