@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **React,Javascript & Cloud**
+- 💬 Ask me about **Azure Data Factory,Snowflake and Cloud**
 
 - 📫 How to reach me **avaneeshsingh1999@gmail.com**
 
