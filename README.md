@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avaneesh Singh</h1>
+<h1 align="center">Hi 👋, I'm Avaneesh</h1>
 <h3 align="center">A Tech-Enthusiast with good Problem-Solving ability and loves to build products.</h3>
 
 - 🌱 I’m currently learning everything 🤣
