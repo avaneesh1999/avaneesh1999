@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **Azure Data Factory,Snowflake and Cloud**
+- 💬 Ask me about **Cloud,DevOps and Azure Data Factory**
 
 - 📫 How to reach me **avaneeshsingh1999@gmail.com**
 
