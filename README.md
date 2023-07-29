@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avaneesh</h1>
-<h3 align="center">A Tech-Enthusiast with good Problem-Solving ability and loves to build products.</h3>
+<h3 align="center">A Tech-Enthusiast with good Problem-Solving ability and loves to deploy products.</h3>
 
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **Cloud,DevOps,AWS and Azure**
+- 💬 Ask me about **Cloud, DevOps, AWS, and Azure**
 
 - 📫 How to reach me **avaneeshsingh1999@gmail.com**
 
