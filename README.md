@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cloud, DevOps, AWS, and Azure**
 
-- 📫 How to reach me **avaneeshsingh1999@gmail.com**
+- 📫 How to reach me **singhavaneesh1881@gmail.com**
 
 - ⚡ Fun fact **Goku fan**
 
